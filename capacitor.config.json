@@ -1,0 +1,7 @@
+{
+  "appId": "com.englishmaster.app",
+  "appName": "English Master",
+  "webDir": "www",
+  "backgroundColor": "#f6f7fd",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
